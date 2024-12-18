@@ -4,6 +4,6 @@ This project demonstrates a basic keylogger implemented in Python using the pynp
 
 FEATURES
 
-	•	Logs each key pressed, including special keys (e.g., Shift, Ctrl, Space).
-	•	Saves keypress logs with timestamps in a file (keylog.txt).
-	•	Stops logging when the Esc key is pressed.
+  - Logs each key pressed, including special keys (e.g., Shift, Ctrl, Space).
+  - Saves keypress logs with timestamps in a file (keylog.txt).
+  - Stops logging when the Esc key is pressed.
