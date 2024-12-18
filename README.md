@@ -24,7 +24,7 @@ Clone this repository or download the keylogger.py file.
   2. Run the Script:
 Open a terminal/command prompt in the directory where the script is located, and run:
 
-     -python keylogger.py
+    python keylogger.py
 
 LOGGING KEYSTROKES 
   - The script will start logging your keystrokes in the keylog.txt file.
