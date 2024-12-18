@@ -19,12 +19,16 @@ Make sure you have Python 3.x installed on your machine. You will also need to i
 
 RUNNING THE KEYLOGGER
 
-	1.	Download the Script:
+  1. Download the Script:
 Clone this repository or download the keylogger.py file.
-	2.	Run the Script:
+  2. Run the Script:
 Open a terminal/command prompt in the directory where the script is located, and run:
 
      -python keylogger.py
+
+	3.	Logging Keystrokes:
+	•	The script will start logging your keystrokes in the keylog.txt file.
+	•	Press the Esc key to stop the keylogger.
 
 
 
