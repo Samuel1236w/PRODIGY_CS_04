@@ -26,9 +26,9 @@ Open a terminal/command prompt in the directory where the script is located, and
 
      -python keylogger.py
 
-	3.	Logging Keystrokes:
-	•	The script will start logging your keystrokes in the keylog.txt file.
-	•	Press the Esc key to stop the keylogger.
+LOGGING KEYSTROKES 
+  - The script will start logging your keystrokes in the keylog.txt file.
+  - Press the Esc key to stop the keylogger.
 
 
 
