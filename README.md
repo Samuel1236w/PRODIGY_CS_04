@@ -30,12 +30,12 @@ LOGGING KEYSTROKES
   - The script will start logging your keystrokes in the keylog.txt file.
   - Press the Esc key to stop the keylogger.
 
-Important Ethical Considerations
+IMPORTANT ETHICAL CONSIDERATIONS
 
-	•	Educational Use Only: This script is intended for educational purposes only to demonstrate how keypress events can be captured using Python.
-	•	Permission: Never use this script without explicit permission from the individuals whose keystrokes are being logged.
-	•	Legal Warning: Unauthorized keylogging can violate privacy rights and is illegal in many jurisdictions. Ensure compliance with all applicable laws and regulations regarding privacy and data security.
-	•	Responsible Use: Always be transparent about your intentions and ensure that the users involved fully understand what the software does and consent to its usage.
+  - Educational Use Only: This script is intended for educational purposes only to demonstrate how keypress events can be captured using Python.
+  - Permission: Never use this script without explicit permission from the individuals whose keystrokes are being logged.
+  - Legal Warning: Unauthorized keylogging can violate privacy rights and is illegal in many jurisdictions. Ensure compliance with all applicable laws and regulations regarding privacy and data security.
+  - Responsible Use: Always be transparent about your intentions and ensure that the users involved fully understand what the software does and consent to its usage.
 
 
 
