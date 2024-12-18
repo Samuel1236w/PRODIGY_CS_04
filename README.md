@@ -17,3 +17,15 @@ Make sure you have Python 3.x installed on your machine. You will also need to i
    - Install the pynput library using pip by running the following command in your terminal or command prompt:
        - pip install pynput
 
+RUNNING THE KEYLOGGER
+
+	1.	Download the Script:
+Clone this repository or download the keylogger.py file.
+	2.	Run the Script:
+Open a terminal/command prompt in the directory where the script is located, and run:
+
+     -python keylogger.py
+
+
+
+
